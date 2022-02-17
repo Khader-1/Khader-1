@@ -2,7 +2,8 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009600483614) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](#)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.co#font=comfortaa&color=00EE00&size=24&width=500&lines=Software+Engineer;Cybersecurity+Specialist;and+Problem+Solving+Instructor!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=Software+Engineer;Cybersecurity+Specialist;and+Problem+Solving+Instructor!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 
 I am a software developer with three years of experience, I had fun with every single line of code and I wish to code some more millions.
 ## Programming Languages & Frameworks

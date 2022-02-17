@@ -31,3 +31,7 @@ I am a software developer with three years of experience, I had fun with every s
 ### Github Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/{Khader-1}/count.svg)
 
+### Trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Khader-1&theme=darkhub&no-frame=true&column=7">
+</a>

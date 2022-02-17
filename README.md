@@ -12,11 +12,11 @@ I am a software developer with three years of experience, I had fun with every s
 
 ## Technologies
 
-![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)![MongoDB](https://img.icons8.com/color/35/mongodb.png)![Docker](https://img.icons8.com/color/35/docker.png)![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Git](https://img.icons8.com/color/35/git.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=35)![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
+![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)![MongoDB](https://img.icons8.com/color/35/mongodb.png)![Docker](https://img.icons8.com/color/35/docker.png)![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)![Git](https://img.icons8.com/color/35/git.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=35)![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
 
 ## Tools
 
-![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=35)![VirtualBox](https://img.icons8.com/?id=38792&size=35)![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=35)![PyCharm](https://img.icons8.com/?id=117121&size=35)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
+![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=35)![VirtualBox](https://img.icons8.com/?id=38792&size=35)![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=35)![PyCharm](https://img.icons8.com/?id=117121&size=35)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)![SceneBuilder](https://img.icons8.com/?id=BZz399uT6eo0&size=35&color=000000)![Eclipse](https://img.icons8.com/office/452/java-eclipse.png)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
 
 ## Operating Systems & Distributions
 

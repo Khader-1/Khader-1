@@ -16,7 +16,7 @@ I am a software developer with three years of experience, I had fun with every s
 
 ## Tools
 
-![Notion](https://img.icons8.com/ios/35/notion.png)![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=35)![VirtualBox](https://img.icons8.com/?id=38792&size=35)![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=35)![PyCharm](https://img.icons8.com/?id=117121&size=35)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
+![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=35)![VirtualBox](https://img.icons8.com/?id=38792&size=35)![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=35)![PyCharm](https://img.icons8.com/?id=117121&size=35)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
 
 ## Operating Systems & Distributions
 

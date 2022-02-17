@@ -33,5 +33,5 @@ I am a software developer with three years of experience, I had fun with every s
 
 ### Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Khader-1&theme=darkhub&no-frame=true&column=7">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Khader-1&theme=darkhub&no-frame=true&column=10">
 </a>

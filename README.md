@@ -24,7 +24,8 @@ I am a software developer with three years of experience, I had fun with every s
 
 ## Github Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khader-1&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khader-1&count_private=true&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khader-1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

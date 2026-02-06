@@ -1,14 +1,15 @@
 # `System.out.println("Hi there, I'm Khudair!");` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="Hi!">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009600483614) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khader-khudair-b73465222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khader-khudair-b73465222/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=Team+Leader;Software+Engineer;Competitive+Programmer;and+Cybersecurity+Specialist!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=Team+Leader;Software+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
-I am a software developer with three years of experience, I had fun with every single line of code and I wish to code some more millions.
+Software Engineer with ~7 years of professional experience designing and building solutions.
+
 ## Programming Languages & Frameworks
 
-![Dart](https://img.icons8.com/color/35/dart.png)![Flutter](https://img.icons8.com/color/35/flutter.png)![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![SASS](https://img.icons8.com/color/35/sass.png)![Python](https://img.icons8.com/color/35/python--v1.png)![C](https://img.icons8.com/color/35/c-programming.png)![Cpp](https://img.icons8.com/color/35/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)![Java Spring](https://img.icons8.com/?id=90519&size=35)![ReactJS](https://img.icons8.com/plasticine/35/react.png)![Bash](https://img.icons8.com/plasticine/35/bash.png)![PHP](https://img.icons8.com/officexs/35/php-logo.png)![Laravel](https://img.icons8.com/fluency/35/laravel.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
+![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)![Java Spring](https://img.icons8.com/?id=90519&size=35)![Dart](https://img.icons8.com/color/35/dart.png)![Flutter](https://img.icons8.com/color/35/flutter.png)![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![SASS](https://img.icons8.com/color/35/sass.png)![Python](https://img.icons8.com/color/35/python--v1.png)![C](https://img.icons8.com/color/35/c-programming.png)![Cpp](https://img.icons8.com/color/35/c-plus-plus-logo.png)![ReactJS](https://img.icons8.com/plasticine/35/react.png)![Bash](https://img.icons8.com/plasticine/35/bash.png)![PHP](https://img.icons8.com/officexs/35/php-logo.png)![Laravel](https://img.icons8.com/fluency/35/laravel.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
 
 ## Technologies
 
